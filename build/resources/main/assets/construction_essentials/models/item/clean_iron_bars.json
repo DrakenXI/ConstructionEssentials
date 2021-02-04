@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "construction_essentials:blocks/clean_iron_bars"
+  }
+}

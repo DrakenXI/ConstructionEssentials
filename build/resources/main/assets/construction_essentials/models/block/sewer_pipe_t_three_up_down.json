@@ -1,0 +1,8 @@
+{
+  "parent": "construction_essentials:custom/sewertupdownpipe",
+  "textures": {
+    "all": "construction_essentials:blocks/basic_concret",
+    "particle": "construction_essentials:blocks/basic_concret",
+    "1": "construction_essentials:blocks/basic_concret"
+  }
+}

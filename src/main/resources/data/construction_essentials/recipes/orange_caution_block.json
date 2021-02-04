@@ -1,0 +1,16 @@
+{
+  "group": "construction_essentials",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:black_concrete"
+    },
+    {
+      "item": "construction_essentials:orange_caution"
+    }
+  ],
+  "result": {
+    "item": "construction_essentials:orange_caution",
+    "count": 2
+  }
+}

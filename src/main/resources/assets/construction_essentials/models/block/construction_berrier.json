@@ -1,0 +1,8 @@
+{
+  "parent": "construction_essentials:custom/constructionbarrier",
+  "textures": {
+    "all": "construction_essentials:blocks/construction_barrier",
+    "particle": "construction_essentials:blocks/construction_barrier",
+    "0": "construction_essentials:blocks/construction_barrier"
+  }
+}

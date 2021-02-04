@@ -1,0 +1,9 @@
+{
+  "group": "construction_essentials",
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "minecraft:iron_bars"
+  },
+  "result": "construction_essentials:clean_iron_bars"
+}

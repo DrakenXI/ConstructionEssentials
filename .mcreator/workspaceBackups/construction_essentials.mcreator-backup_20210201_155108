@@ -1,0 +1,739 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "BlueCaution",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blue_caution"
+    },
+    {
+      "name": "BrownCaution",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brown_caution"
+    },
+    {
+      "name": "CyanCaution",
+      "type": "block",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cyan_caution"
+    },
+    {
+      "name": "GrayCaution",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gray_caution"
+    },
+    {
+      "name": "GreenCaution",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "green_caution"
+    },
+    {
+      "name": "LightBlueCaution",
+      "type": "block",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_blue_caution"
+    },
+    {
+      "name": "LightGrayCaution",
+      "type": "block",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_gray_caution"
+    },
+    {
+      "name": "LimeCaution",
+      "type": "block",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lime_caution"
+    },
+    {
+      "name": "MagentaCaution",
+      "type": "block",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magenta_caution"
+    },
+    {
+      "name": "OrangeCaution",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "orange_caution"
+    },
+    {
+      "name": "PinkCaution",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pink_caution"
+    },
+    {
+      "name": "PurpleCaution",
+      "type": "block",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purple_caution"
+    },
+    {
+      "name": "RedCaution",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_caution"
+    },
+    {
+      "name": "WhiteCaution",
+      "type": "block",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_caution"
+    },
+    {
+      "name": "YellowCaution",
+      "type": "block",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "yellow_caution"
+    },
+    {
+      "name": "BlueCautionBlock",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blue_caution_block"
+    },
+    {
+      "name": "BrownCautionBlock",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "brown_caution_block"
+    },
+    {
+      "name": "CyanCautionBlock",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cyan_caution_block"
+    },
+    {
+      "name": "GrayCautionBlock",
+      "type": "recipe",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "gray_caution_block"
+    },
+    {
+      "name": "GreenCautionBlock",
+      "type": "recipe",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "green_caution_block"
+    },
+    {
+      "name": "LightBlueCautionBlock",
+      "type": "recipe",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_blue_caution_block"
+    },
+    {
+      "name": "LightGrayCautionBlock",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "light_gray_caution_block"
+    },
+    {
+      "name": "LimeCautionBlock",
+      "type": "recipe",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lime_caution_block"
+    },
+    {
+      "name": "MagentaCautionBlock",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "magenta_caution_block"
+    },
+    {
+      "name": "OrangeCautionBlock",
+      "type": "recipe",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "orange_caution_block"
+    },
+    {
+      "name": "PinkCautionBlock",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "pink_caution_block"
+    },
+    {
+      "name": "PurpleCautionBlock",
+      "type": "recipe",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "purple_caution_block"
+    },
+    {
+      "name": "RedCautionBlock",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "red_caution_block"
+    },
+    {
+      "name": "WhiteCautionBlock",
+      "type": "recipe",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "white_caution_block"
+    },
+    {
+      "name": "YellowCautionBlock",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "yellow_caution_block"
+    },
+    {
+      "name": "BlueCautionFence",
+      "type": "block",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blue_caution_fence"
+    },
+    {
+      "name": "BasicConcret",
+      "type": "block",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "basic_concret"
+    },
+    {
+      "name": "Facingblock",
+      "type": "block",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "facingblock"
+    },
+    {
+      "name": "RotatorRightClickedOnBlock",
+      "type": "procedure",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rotator_right_clicked_on_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Rotator",
+      "type": "item",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rotator"
+    },
+    {
+      "name": "SewerPipeBase",
+      "type": "block",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sewer_pipe_base"
+    },
+    {
+      "name": "SewerPipeStraight",
+      "type": "block",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sewer_pipe_straight"
+    },
+    {
+      "name": "SewerPipeBendTowUp",
+      "type": "block",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sewer_pipe_bend_tow_up"
+    },
+    {
+      "name": "SewerPipeBendTowDown",
+      "type": "block",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sewer_pipe_bend_tow_down"
+    },
+    {
+      "name": "SewerPipeBendTowSide",
+      "type": "block",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sewer_pipe_bend_tow_side"
+    },
+    {
+      "name": "SewerPipeBendThreeDown",
+      "type": "block",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sewer_pipe_bend_three_down"
+    },
+    {
+      "name": "SewerPipeBendThreeUp",
+      "type": "block",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sewer_pipe_bend_three_up"
+    },
+    {
+      "name": "SewerPipeTThreeUp",
+      "type": "block",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sewer_pipe_t_three_up"
+    },
+    {
+      "name": "SewerPipeTThreeDown",
+      "type": "block",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sewer_pipe_t_three_down"
+    },
+    {
+      "name": "SewerPipeTThreeSide",
+      "type": "block",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sewer_pipe_t_three_side"
+    },
+    {
+      "name": "SewerPipeBendFourUp",
+      "type": "block",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sewer_pipe_bend_four_up"
+    },
+    {
+      "name": "SewerPipeBendFourDown",
+      "type": "block",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sewer_pipe_bend_four_down"
+    },
+    {
+      "name": "SewerPipeBendFourSide",
+      "type": "block",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sewer_pipe_bend_four_side"
+    },
+    {
+      "name": "SewerPipeCrossFour",
+      "type": "block",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sewer_pipe_cross_four"
+    },
+    {
+      "name": "SewerPipeCrossFive",
+      "type": "block",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sewer_pipe_cross_five"
+    },
+    {
+      "name": "SewerPipeCrossSix",
+      "type": "block",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sewer_pipe_cross_six"
+    },
+    {
+      "name": "Test",
+      "type": "procedure",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "test",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SewerPipeBaseBlockAdded",
+      "type": "procedure",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": true,
+      "ids": {},
+      "registry_name": "sewer_pipe_base_block_added",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "SewerPipeTThreeUpDown",
+      "type": "block",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sewer_pipe_t_three_up_down"
+    },
+    {
+      "name": "WasteWater",
+      "type": "fluid",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "waste_water"
+    },
+    {
+      "name": "BasicConcretBlock",
+      "type": "recipe",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "basic_concret_block"
+    },
+    {
+      "name": "SewerPipe",
+      "type": "recipe",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sewer_pipe"
+    },
+    {
+      "name": "SewerPipeS",
+      "type": "recipe",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sewer_pipe_s"
+    },
+    {
+      "name": "SewerPipeC",
+      "type": "recipe",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sewer_pipe_c"
+    },
+    {
+      "name": "SewerPipeCF",
+      "type": "recipe",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sewer_pipe_cf"
+    },
+    {
+      "name": "ConstructionBerrier",
+      "type": "block",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "construction_berrier"
+    },
+    {
+      "name": "CleanIronBars",
+      "type": "block",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "clean_iron_bars"
+    },
+    {
+      "name": "IronBarsDoor",
+      "type": "block",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_bars_door"
+    },
+    {
+      "name": "IronBarsTrapdoor",
+      "type": "block",
+      "sortid": 73,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "iron_bars_trapdoor"
+    },
+    {
+      "name": "CleanIronBarsRecipe",
+      "type": "recipe",
+      "sortid": 74,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "clean_iron_bars_recipe"
+    },
+    {
+      "name": "CristalLight",
+      "type": "block",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cristal_light"
+    },
+    {
+      "name": "WasteWaterRecipe",
+      "type": "recipe",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "waste_water_recipe"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "block.construction_essentials.pink_caution": "Pink Caution",
+      "block.construction_essentials.sewer_pipe_t_three_side": "Sewer Pipe T Three Side",
+      "block.construction_essentials.orange_caution": "Orange Caution",
+      "block.construction_essentials.green_caution": "Green Caution",
+      "block.construction_essentials.cristal_light": "Cristal Light",
+      "item.construction_essentials.waste_water_bucket": "WasteWater Bucket",
+      "block.construction_essentials.lime_caution": "Lime Caution",
+      "block.construction_essentials.sewer_pipe_bend_tow_up": "Sewer Pipe Bend Tow Up",
+      "block.construction_essentials.sewer_pipe_bend_four_up": "Sewer Pipe Bend Four Up",
+      "block.construction_essentials.iron_bars_trapdoor": "Iron Bars Trapdoor",
+      "block.construction_essentials.red_caution": "Red Caution",
+      "block.construction_essentials.sewer_pipe_straight": "Sewer Pipe Straight",
+      "block.construction_essentials.sewer_pipe_bend_tow_side": "Sewer Pipe Bend Tow Side",
+      "block.construction_essentials.sewer_pipe_t_three_up": "Sewer Pipe T Three up",
+      "block.construction_essentials.construction_berrier": "Construction Berrier",
+      "block.construction_essentials.purple_caution": "Purple Caution",
+      "block.construction_essentials.clean_iron_bars": "Clean Iron Bars",
+      "block.construction_essentials.basic_concret": "Basic Concret",
+      "block.construction_essentials.brown_caution": "Brown Caution",
+      "block.construction_essentials.yellow_caution": "Yellow Caution",
+      "block.construction_essentials.magenta_caution": "Magenta Caution",
+      "block.construction_essentials.sewer_pipe_bend_three_up": "Sewer Pipe Bend Three Up",
+      "block.construction_essentials.sewer_pipe_t_three_down": "Sewer Pipe T Three Down",
+      "block.construction_essentials.sewer_pipe_cross_four": "Sewer Pipe Cross Four",
+      "block.construction_essentials.sewer_pipe_t_three_up_down": "Sewer Pipe T Three Up Down",
+      "block.construction_essentials.sewer_pipe_bend_four_side": "Sewer Pipe Bend Four Side",
+      "block.construction_essentials.iron_bars_door": "Iron Bars Door",
+      "block.construction_essentials.sewer_pipe_bend_tow_down": "Sewer Pipe Bend Tow Down",
+      "block.construction_essentials.gray_caution": "Gray Caution",
+      "block.construction_essentials.blue_caution_fence": "Blue Caution Fence",
+      "block.construction_essentials.sewer_pipe_base": "Sewer Pipe Base",
+      "fluid.waste_water": "WasteWater",
+      "block.construction_essentials.sewer_pipe_bend_three_down": "Sewer Pipe Bend Three Down",
+      "block.construction_essentials.light_blue_caution": "Light Blue Caution",
+      "block.construction_essentials.sewer_pipe_bend_four_down": "Sewer Pipe Bend Four Down",
+      "block.construction_essentials.sewer_pipe_cross_five": "Sewer Pipe Cross Five",
+      "block.construction_essentials.white_caution": "White Caution",
+      "item.construction_essentials.rotator": "Rotator",
+      "block.construction_essentials.facingblock": "Facingblock",
+      "block.construction_essentials.sewer_pipe_cross_six": "Sewer Pipe Cross Six",
+      "block.construction_essentials.cyan_caution": "Cyan Caution",
+      "block.construction_essentials.blue_caution": "Blue Caution",
+      "block.construction_essentials.light_gray_caution": "Light Gray Caution"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "construction_essentials",
+    "modName": "Construction Essentials",
+    "version": "0.0.1",
+    "author": "Draken",
+    "websiteURL": "https://drakenxi.net",
+    "license": "All Rights Reserved",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.4",
+    "modElementsPackage": "net.drakenxi.constructionessentials",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100103117
+}

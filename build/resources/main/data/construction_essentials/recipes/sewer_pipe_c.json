@@ -1,0 +1,13 @@
+{
+  "group": "construction_essentials",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "construction_essentials:sewer_pipe_cross_four"
+    }
+  ],
+  "result": {
+    "item": "construction_essentials:sewer_pipe_cross_six",
+    "count": 1
+  }
+}

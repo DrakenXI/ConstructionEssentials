@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "construction_essentials:block/sewer_pipe_cross_four"
+    },
+    "facing=east": {
+      "model": "construction_essentials:block/sewer_pipe_cross_four",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "construction_essentials:block/sewer_pipe_cross_four",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "construction_essentials:block/sewer_pipe_cross_four",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "construction_essentials:block/sewer_pipe_cross_four",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "construction_essentials:block/sewer_pipe_cross_four",
+      "x": 90
+    }
+  }
+}

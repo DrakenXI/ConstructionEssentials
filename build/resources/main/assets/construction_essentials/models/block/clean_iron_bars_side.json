@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_glass_pane_side",
+  "textures": {
+    "edge": "construction_essentials:blocks/clean_iron_bars_top",
+    "pane": "construction_essentials:blocks/clean_iron_bars"
+  }
+}

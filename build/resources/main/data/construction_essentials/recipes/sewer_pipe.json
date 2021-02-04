@@ -1,0 +1,27 @@
+{
+  "group": "construction_essentials",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "3 5",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "construction_essentials:basic_concret"
+    },
+    "3": {
+      "item": "construction_essentials:basic_concret"
+    },
+    "5": {
+      "item": "construction_essentials:basic_concret"
+    },
+    "7": {
+      "item": "construction_essentials:basic_concret"
+    }
+  },
+  "result": {
+    "item": "construction_essentials:sewer_pipe_base",
+    "count": 4
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "_fv": 15,
+  "_type": "fluid",
+  "definition": {
+    "name": "CristalGas",
+    "textureStill": "cristal_gas_still",
+    "textureFlowing": "cristal_gas_still",
+    "luminosity": 15,
+    "density": 1000,
+    "viscosity": 0,
+    "isGas": true,
+    "type": "WATER",
+    "generateBucket": true,
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "frequencyOnChunks": 5,
+    "spawnWorldTypes": [
+      "Surface"
+    ],
+    "restrictionBiomes": []
+  }
+}

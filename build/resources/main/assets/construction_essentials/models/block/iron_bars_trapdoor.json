@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_orientable_trapdoor_bottom",
+  "textures": {
+    "texture": "construction_essentials:blocks/clean_iron_bars",
+    "particle": "construction_essentials:blocks/clean_iron_bars"
+  }
+}

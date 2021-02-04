@@ -1,0 +1,23 @@
+{
+  "_fv": 15,
+  "_type": "fluid",
+  "definition": {
+    "name": "WasteWater",
+    "textureStill": "fluid",
+    "textureFlowing": "fluid",
+    "luminosity": 0,
+    "density": 1,
+    "viscosity": 1000,
+    "isGas": false,
+    "type": "WATER",
+    "generateBucket": true,
+    "creativeTab": {
+      "value": "MISC"
+    },
+    "frequencyOnChunks": 5,
+    "spawnWorldTypes": [
+      "Surface"
+    ],
+    "restrictionBiomes": []
+  }
+}

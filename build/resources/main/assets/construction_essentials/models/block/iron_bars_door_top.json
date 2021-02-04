@@ -1,0 +1,7 @@
+{
+  "parent": "block/door_top",
+  "textures": {
+    "bottom": "construction_essentials:blocks/clean_iron_bars",
+    "top": "construction_essentials:blocks/clean_iron_bars"
+  }
+}

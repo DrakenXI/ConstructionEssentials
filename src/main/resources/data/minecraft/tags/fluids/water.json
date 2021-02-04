@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "construction_essentials:waste_water",
+    "construction_essentials:waste_water_flowing",
+    "construction_essentials:cristal_gas",
+    "construction_essentials:cristal_gas_flowing"
+  ]
+}
