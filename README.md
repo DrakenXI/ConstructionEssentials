@@ -32,7 +32,7 @@ I use Minecraft concrete textures for creating caution textures.
 ### Basic concrete
 I hate gray concrete in Minecraft... I have create mine :grin:.
 
-![alt text](https://images.drakenxi.net/ConstructionEssentials/CE_01.png =250x)
+![Alt Text](https://images.drakenxi.net/ConstructionEssentials/CE_01.png =250x)
 
 ### Construction barrier
 Nice block ?
@@ -41,7 +41,7 @@ Nice block ?
 Just random testing things.
 (Fluids, gas, light, textures...)
 
-![alt text](https://images.drakenxi.net/ConstructionEssentials/CE_02.png =250x)
+![Alt Text](https://images.drakenxi.net/ConstructionEssentials/CE_02.png =250x)
 
 
 ###### Currently using: MCreator EAP 2021.1 b03117
