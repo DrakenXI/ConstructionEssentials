@@ -606,15 +606,6 @@
       "registry_name": "sewer_pipe_cf"
     },
     {
-      "name": "ConstructionBerrier",
-      "type": "block",
-      "sortid": 70,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "construction_berrier"
-    },
-    {
       "name": "CleanIronBars",
       "type": "block",
       "sortid": 71,
@@ -676,6 +667,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "cristal_gas"
+    },
+    {
+      "name": "ConstructionBarrier",
+      "type": "block",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "construction_barrier"
     }
   ],
   "variable_elements": [],
@@ -687,6 +687,7 @@
       "block.construction_essentials.orange_caution": "Orange Caution",
       "block.construction_essentials.green_caution": "Green Caution",
       "block.construction_essentials.cristal_light": "Cristal Light",
+      "block.construction_essentials.construction_barrier": "Construction Barrier",
       "item.construction_essentials.waste_water_bucket": "WasteWater Bucket",
       "block.construction_essentials.lime_caution": "Lime Caution",
       "block.construction_essentials.sewer_pipe_bend_tow_up": "Sewer Pipe Bend Tow Up",
@@ -696,7 +697,6 @@
       "block.construction_essentials.sewer_pipe_straight": "Sewer Pipe Straight",
       "block.construction_essentials.sewer_pipe_bend_tow_side": "Sewer Pipe Bend Tow Side",
       "block.construction_essentials.sewer_pipe_t_three_up": "Sewer Pipe T Three up",
-      "block.construction_essentials.construction_berrier": "Construction Berrier",
       "block.construction_essentials.purple_caution": "Purple Caution",
       "block.construction_essentials.clean_iron_bars": "Clean Iron Bars",
       "block.construction_essentials.basic_concret": "Basic Concret",
